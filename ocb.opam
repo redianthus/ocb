@@ -13,6 +13,7 @@ depends: [
   "ocaml" {>= "4.14"}
   "cmdliner"
   "dune" {>= "3.0"}
+  "fmt"
   "prelude"
   "odoc" {with-doc}
 ]

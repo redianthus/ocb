@@ -29,5 +29,6 @@
    (>= 4.14))
   cmdliner
   dune
+  fmt
   prelude
   (odoc :with-doc)))
